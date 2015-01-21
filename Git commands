@@ -1,0 +1,17 @@
+5. git status tells you the current state of the repo
+
+6. git add <files to add>
+
+7. git commit -m"PUT COMMIT MESSAGE HERE"
+6. git remote add origin <name of your remote repo link>
+
+7. git push -u origin master //push to the remote repo
+8. git pull origin master // pull from the remote repo
+
+9. git clone <name of remote repo> // clones remote repo <someone elses repo>
+
+
+//REALLY USEFUL COMMAND
+
+git checkout -- .
+
